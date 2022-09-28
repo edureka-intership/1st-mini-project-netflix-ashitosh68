@@ -1,0 +1,75 @@
+* {
+    font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-weight: 600;
+}
+
+.back-img {
+    position: relative;
+    height: 750px;
+    width: 100%;
+    border-bottom: 8px solid #222;
+}
+
+.navbar {
+    position: absolute;
+    width: 100%;
+    top: 10px;
+
+}
+
+.container {
+    position: absolute;
+    left: 33%;
+    top: 20%;
+    max-width: 640px;
+}
+
+.main-content {
+    font-size: 3rem;
+    line-height: 1.1;
+    margin-top: 120px;
+}
+
+.sub-content {
+    font-size: 1.65rem;
+    line-height: 2;
+}
+
+.sub-innercontent {
+    font-size: 1.2rem;
+    line-height: 2;
+}
+
+.email {
+    height: 39px;
+}
+
+.innercontent-button {
+    height: 39px;
+    padding: 9px;
+    text-align: center;
+    
+}
+
+.content {
+
+    border-bottom: 8px solid #222;
+}
+
+.subcontent {
+
+    max-width: 400px;
+}
+
+.innercontent {
+    max-width: 300px;
+}
+
+.incontent {
+    max-width: 418px;
+}
